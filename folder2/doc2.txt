@@ -1,0 +1,4 @@
+hello
+i am still using git bash
+but in another folder
+i like movies
