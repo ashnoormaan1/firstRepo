@@ -1,2 +1,4 @@
-hello
 i am using git bash
+day 2 of doing git bash
+thursday
+
